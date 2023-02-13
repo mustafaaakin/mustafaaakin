@@ -4,7 +4,7 @@
 
 ### I use variety of languages for my projects but I can say that:
 
-🔥 I'm a Svelte fan and user.
+🔥 I'm a Svelte fan and daily user.
 
 💻 I have high interest towards Rust.
 
