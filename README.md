@@ -4,8 +4,8 @@
 
 Here are some information about myself:
 
-🔥 I'm a Svelte fan and daily user.
+• 🔥 I'm a Svelte fan and daily user.
 
-💻 I have high interest towards Rust.
+• 💻 I have high interest towards Rust.
 
-📖 I'm learning Python & It's technologies for future plans.
+• 📖 I'm learning Python & It's technologies for future plans.
