@@ -8,4 +8,4 @@
  
  💻 I have high interest towards Rust.
  
- 📖 I'm learning Python & It's technologies for future plans.
+ 📖 I started programming with Unity.
