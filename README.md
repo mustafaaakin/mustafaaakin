@@ -2,7 +2,7 @@
 
 • Welcome to my GitHub profile! I'm a high school student and developer from Turkey.
 
-▼ Random information about myself:
+<h1 align="center">Random Informations About Myself:</h1>
 
  🔥 I'm a Svelte fan and daily user.
  
