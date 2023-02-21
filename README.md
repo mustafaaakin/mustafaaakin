@@ -2,7 +2,7 @@
 
 <p align="center">Welcome to my GitHub profile! I'm a high school student and developer from Turkey.</p>
 
-<h1 align="center">Random Informations About Myself</h1>
+<h2 align="center">Random Informations About Myself</h2>
 
  🔥 I'm a Svelte fan and daily user.
  
