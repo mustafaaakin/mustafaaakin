@@ -2,5 +2,3 @@
 
 <p align="center">Welcome to my GitHub profile! I'm a high school student and developer from Turkey.</p>
 
- 🔥 Fun fact about me: I'm a Svelte fan and daily user.
-
