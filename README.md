@@ -2,7 +2,7 @@
 
 <p>Welcome to my GitHub profile! I'm a high school student and developer from Turkey.</p>
 
-<h2>Stuff I Use & Like:</h2>
+<h2>Stuff I Use Daily & Like:</h2>
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
